@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aingoomoa.datasnapshot.org/sitemap.xml
